@@ -37,6 +37,5 @@
 	  </div>
 	</nav>
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere perferendis aliquid nobis odio deserunt corporis doloremque. Assumenda eveniet facilis amet! Maxime, illo tenetur reprehenderit numquam obcaecati voluptatum culpa, quia eius.
 
 
