@@ -9,6 +9,8 @@
 
 </head>
 <body>
+	
+
 	<h1>haja, tiene que ser .php todo archivo para poder utilizar correctamente las funciones php</h1>
 	
 	<h3> Pagina inicial distinta a la de base</h3>

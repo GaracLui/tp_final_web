@@ -1,6 +1,11 @@
 <div class="container ">
 	<div class="row">
 		<div class="col-12">
+
+			//
+			<h5> Este achivo a sido subido a GitHub  utilizando Github Desktop </h5>
+
+			// .-.
 			
 			<h1>haja, tiene que ser .php todo archivo para poder utilizar correctamente las funciones php</h1>
 			
